@@ -1,0 +1,129 @@
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\smart_department.exe.config
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\smart_department.exe
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\smart_department.pdb
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.AssemblyReference.cache
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.form_start.resources
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.Form_main.resources
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.Properties.Resources.resources
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.GenerateResource.cache
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.CoreCompileInputs.cache
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.exe
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.pdb
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\BouncyCastle.Crypto.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\K4os.Hash.xxHash.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\MySql.Data.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Buffers.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Memory.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Numerics.Vectors.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\Ubiety.Dns.Core.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\ZstdNet.dll
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.pdb
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\K4os.Hash.xxHash.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\MySql.Data.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Buffers.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Memory.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Numerics.Vectors.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\6th Semister Fall-21\Software Development 2-CSE 200\PROJECT\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.CopyComplete
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\smart_department.exe.config
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\smart_department.exe
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\smart_department.pdb
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\BouncyCastle.Crypto.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\K4os.Hash.xxHash.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\MySql.Data.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Buffers.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Memory.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Numerics.Vectors.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\Ubiety.Dns.Core.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\ZstdNet.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.pdb
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\K4os.Hash.xxHash.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\MySql.Data.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Buffers.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Memory.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Numerics.Vectors.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.AssemblyReference.cache
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.form_start.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.Form_main.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.Properties.Resources.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.GenerateResource.cache
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.CoreCompileInputs.cache
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.exe
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.pdb
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.Admin_login_form.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.Admin_Login_After_form1.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\resourse\smart_department_solution\smart_department\obj\Debug\smart_department.department_Form.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\smart_department.exe.config
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\smart_department.exe
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\smart_department.pdb
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\BouncyCastle.Crypto.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\K4os.Hash.xxHash.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\MySql.Data.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Buffers.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Memory.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Numerics.Vectors.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\Ubiety.Dns.Core.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\ZstdNet.dll
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.pdb
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\Google.Protobuf.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\K4os.Hash.xxHash.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\MySql.Data.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Buffers.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Memory.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Numerics.Vectors.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.AssemblyReference.cache
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Admin_Login_After_form1.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Admin_login_form.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.department_Form.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.form_start.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_main.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Properties.Resources.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.GenerateResource.cache
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.csproj.CoreCompileInputs.cache
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.exe
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.pdb
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_Data_Insert.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_basic_admin.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_class_link_admin.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_RBook_admin.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_Slide_Record_admin.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_routine_admin.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_notice_admin.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_Data_Show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_admin_basic_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_admin_classlink_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_admin_RBook_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_admin_SlideRecord_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_admin_routine_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_admin_notice_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_main.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_user_reg.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show_basic.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show_classlink.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show_RBook.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show_SlideRecord.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show_routine.resources
+F:\BUBT\summer 21\cse 200 (Sovon Sir)\project\final project\smart_department_solution\smart_department\obj\Debug\smart_department.Form_std_show_notice.resources
